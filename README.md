@@ -1,7 +1,5 @@
 # veridic_machine_learning
 
-
- 
 Machine learning Course
  
 
@@ -143,7 +141,4 @@ Install VS Code:
 3.	Ctrl + shift + p for windows, command + shift + p for mac os  should open command palette in vs code.
 4.	In command palette, search for option " install code command in path " and press enter. This step should install code script into your path automatically.
 5.	You're all set!
-
- 
- 
 
