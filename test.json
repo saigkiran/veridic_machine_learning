@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "created_by": "Sai",
+        "date": "01-17-2019",
+        "location": "Atlanta"
+    },
+    "players_corresponding_to_sports": {
+        "cricket": ["Sachin", "Virat", "Bumrah", "Dhoni"],
+        "tennis": ["Federer", "Nadal", "Djokovic", "Sania"],
+        "badminton": ["Sindhu", "Saina", "Kashyap", "LinDan", "Lee Chong Wei"]
+    }
+
+}
