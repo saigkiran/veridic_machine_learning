@@ -1,0 +1,21 @@
+Varun_Assignment_Reading
+U to Z:
+
+Underfitting:
+It is like a failed model which has not learnt anything based on the given data. It is not recommended to use this model/algorithm.
+
+Univariate Analysis:
+In this analysis we compare and analyze the dependency of one predictor and response variable. 
+
+Unsupervised Learning:
+
+This method is not used to predict or estimate but it is used to segregate data into sets or make sense of the data.
+
+Variance:
+It gives a sense of how scattered the given data points are from the mean.
+
+Z-test:
+It is a complicated variance test(sort of).
+
+Zookeeper:
+It’s an open source API software which allows clients to receive consistent data as it syncs distributed processes in large systems.
