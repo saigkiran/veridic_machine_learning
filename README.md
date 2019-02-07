@@ -142,3 +142,4 @@ Install VS Code:
 4.	In command palette, search for option " install code command in path " and press enter. This step should install code script into your path automatically.
 5.	You're all set!
 
+Today's class is github
